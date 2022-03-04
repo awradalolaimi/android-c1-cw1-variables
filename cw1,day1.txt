@@ -1,0 +1,9 @@
+public class Main
+{
+	public static void main(String[] args) {
+	String name = "Awrad" ;
+	int favouriteNumber = 12 ;
+	String hobby = "painting" ;
+	System.out.println("Hi, my name is " + name + ", my favourite number is " + favouriteNumber + " and my hobby is " + hobby) ;
+	}
+}
